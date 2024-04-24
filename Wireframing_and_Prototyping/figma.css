@@ -1,0 +1,289 @@
+	
+.blue{
+	border-color:blue;
+	border-width:5px;
+	border-style:solid;
+}
+.red{
+	border-color:red;
+	border-width:3px;
+	border-style:solid;
+}
+.yellow{
+	border-color:yellow;
+	border-width:3px;
+	border-style:solid;
+}
+.green{
+	border-color:green;
+	border-width:3px;
+	border-style:solid;
+}
+#one{
+	height:30px;
+}
+#one .red{
+	width:60%;
+	height:29px;
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+}
+#one .yellow{
+	width:3%;
+	height:25px;
+	display:block;
+	float:right;
+}
+#two{
+	height:45px;
+}
+#two .red{
+	width:60%;
+	height:39px;
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+}
+#two .yellow{
+	width:5%;
+	height:35px;
+	display:block;
+	float:right;
+}
+#three{
+	height:30px;
+}
+#three .red{
+	width:60%;
+	height:29px;
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+}
+#three .yellow{
+	width:7%;
+	height:25px;
+	display:block;
+	float:left;
+}
+
+#four{
+	height:500px;
+}
+#four .red{
+	width:52%;
+	display:block;
+}
+#four .yellow{
+	width:98%;
+	height:125px;
+	display:block;
+	float:right;
+	margin-top:187px;
+	margin-bottom:187px;
+}
+#five{
+	height:400px;
+}
+#five .red{
+	width:49.5%;
+}
+#five .yellow{
+	width:5%;
+	display:block;
+	position:relative;
+}
+#six{
+	height:200px;
+}
+#six .red{
+	width:60%;
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+}
+#six .yellow{
+	width:17%;
+	height:90px;
+	display:block;
+	float:right;
+	margin-top:50px;
+	margin-bottom:50px;
+	margin-left:2%;
+	margin-right:4.5%;
+}
+#seven{
+	height:500px;
+}
+#seven .red{
+	width:60%;
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+}
+#seven .yellow{
+	display:block;
+	position:relative;
+}
+#seven .green{
+	display:block;
+	position:relative;
+	height:250px;
+	width:30%;
+}
+
+
+
+
+#eight{
+	height:350px;
+}
+#eight .red{
+	width:30%;
+	display:block;
+	margin-left: 15%;
+	margin-right: 44.5%;
+}
+#eight .yellow{
+	width:5%;
+	display:block;
+	float:right;
+}
+#nine{
+	height:400px;
+}
+#nine .red{
+	width:60%;
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+}
+#nine .yellow{
+	width:5%;
+	display:block;
+	position:relative;
+}
+#nine .green{
+	display:block;
+	position:relative;
+	height:200px;
+	width:30%;
+}
+#ten{
+	height:350px;
+}
+#ten .red{
+	width:25%;
+	display:block;
+	margin-left: auto;
+}
+#ten .yellow{
+	width:5%;
+	display:block;
+	position:relative;
+}
+#eleven{
+	height:500px;
+}
+#eleven .red{
+	width:60%;
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+}
+#eleven .yellow{
+	width:5%;
+	display:block;
+	position:relative;
+}
+#eleven .green{
+	display:block;
+	position:relative;
+	height:250px;
+	width:30%;
+}
+#twelve{
+	height:200px;
+}
+
+#twelve .red{
+	width:33%;
+	display:block;
+}
+#twelve .yellow{
+	width:5%;
+	display:block;
+	float:right;
+}
+#thirteen{
+	height:250px;
+}
+#thirteen .red{
+	width:60%;
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+}
+#thirteen .yellow{
+	width:5%;
+	display:block;
+	position:relative;
+}
+#thirteen .green{
+	display:block;
+	position:relative;
+	height:auto;
+	height:100%;
+	width:15%;
+}
+#fourteen{
+	height:100px;
+}
+#fourteen .red{
+	width:60%;
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+}
+#fourteen .yellow{
+	width:5%;
+	display:block;
+	position:relative;
+}
+#fifteen{
+	height:250px;
+}
+#fifteen .red{
+	width:60%;
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+}
+#fifteen .yellow{
+	width:5%;
+	display:block;
+	position:relative;
+}
+#fifteen .green{
+	display:block;
+	position:relative;
+	height:100%;
+	width:16%;
+}
+#sixteen{
+	height:40px;
+	width:100%;
+}
+#sixteen .red{
+	width:60%;
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+}
+#sixteen .yellow{
+	width:3%;
+	height:35px;
+	display:block;
+	float:right;
+}

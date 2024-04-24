@@ -1,0 +1,26 @@
+#display{
+	background-color:green;
+	color:white;
+	margin:3px;
+	padding:5px;
+	text-align:right;
+	height:20px;
+}
+.flex{
+	display:flex;
+}
+.col{
+	flex-grow:1;
+	background-color:grey;
+	color:white;
+	margin:3px;
+	padding:5px;
+	text-align:center;
+}
+#calculate{
+	background-color:red;
+	margin:5px;
+	padding:5px;
+	color:white;
+	text-align:center;
+}

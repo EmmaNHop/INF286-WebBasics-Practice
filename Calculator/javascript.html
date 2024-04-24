@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+	<head>
+		
+		<link rel="stylesheet" href="calculator.css" />
+		
+	</head>
+	<body>
+		<div id="display">
+			
+		</div>
+		<div class="flex">
+			<div class="col" onclick="showNumber(7)">7</div>
+			<div class="col" onclick="showNumber(8)">8</div>
+			<div class="col" onclick="showNumber(9)">9</div>
+			<div class="col" onclick="showOperator('/')">/</div>
+		</div>
+		<div class="flex">
+			<div class="col" onclick="showNumber(4)">4</div>
+			<div class="col" onclick="showNumber(5)">5</div>
+			<div class="col" onclick="showNumber(6)">6</div>
+			<div class="col" onclick="showOperator('*')">*</div>
+		</div>
+		<div class="flex">
+			<div class="col" onclick="showNumber(1)">1</div>
+			<div class="col" onclick="showNumber(2)">2</div>
+			<div class="col" onclick="showNumber(3)">3</div>
+			<div class="col" onclick="showOperator('-')">-</div>
+		</div>
+		<div class="flex">
+			<div class="col" onclick="clearDisplay()">C</div>
+			<div class="col" onclick="showNumber(0)">0</div>
+			<div class="col" onclick="showNumber('.')">.</div>
+			<div class="col" onclick="showOperator('+')">+</div>
+		</div>
+		<div id="calculate" onclick="calculate()">
+			CALCULATE
+		</div>
+		
+		<br/>
+		<br/>
+		<br/>
+		<input id="test" type="text"></input>
+		<input id="submit" type="submit" value="submit" onclick="sayHi()"></input>
+		<script src="calculator.js"></script>
+	</body>
+</html>
